@@ -68,7 +68,7 @@ export default function ContactSection() {
             <div style={{ display: 'flex', flexDirection: 'column', gap: 12 }}>
               {[
                 { icon: '⚡', text: '7+ years of hands-on Laravel & Node.js experience' },
-                { icon: '🚀', text: 'Delivered 10+ production apps across multiple domains' },
+                { icon: '🚀', text: 'Delivered 20+ production apps across multiple domains' },
                 { icon: '🔧', text: 'End-to-end: API design, DB, admin panel, deployment' },
                 { icon: '💬', text: 'Clear communication & fast turnaround' },
               ].map((item, i) => (
